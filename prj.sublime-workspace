@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"INDE",
+				"Indent XML"
+			],
+			[
+				"base",
+				"Base Encoding: Base64 Decode Selection(s)"
+			],
+			[
+				"indenx",
+				"Indent XML"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"oj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"obj",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ma",
+				"Marked"
+			],
+			[
+				"M",
+				"Marked"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"view.encoding()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/HEAP/ignazioc/ignazioc.github.io/_includes/sidebar.html",
+		"/Volumes/HEAP/ignazioc/ignazioc.github.io/_config.yml",
+		"/Users/icalo/Desktop/response/model.xml",
+		"/Users/icalo/Desktop/response/loe.xml",
+		"/Users/icalo/Desktop/response/data.xml",
+		"/Users/icalo/Desktop/dump/model_SRV[680]_.dat",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/docs/DoxyFile",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/docs/generatedoc.sh",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/docs/customdoxygen.css",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/generatedoc.sh",
+		"/private/tmp/prova.txt",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/20140521__loe.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/20140521__data.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/20140521__model.xml",
+		"/Volumes/HEAP/ignazioc/lanyon/_includes/sidebar.html",
+		"/Volumes/HEAP/ignazioc/lanyon/_config.yml",
+		"/Volumes/HEAP/ignazioc/Let-s-try--ActiveRecord/app.rb",
+		"/Users/icalo/Desktop/response/__loe.xml",
+		"/Users/icalo/Desktop/response/__model.xml",
+		"/Users/icalo/Desktop/response/__data.xml",
+		"/Users/icalo/Desktop/response/19052914_4_loe.xml",
+		"/Users/icalo/Desktop/response/19052914_4_data.xml",
+		"/Volumes/HEAP/ignazioc/magicalrecord/environments.rb",
+		"/Volumes/HEAP/ignazioc/magicalrecord/database.log",
+		"/Users/icalo/Desktop/response/19052914_4_model.xml",
+		"/Volumes/HEAP/ignazioc/sqlite-example.rb",
+		"/Volumes/HEAP/ignazioc/magicalrecord/sqlite-example.rb",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/19052914_2_model.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/19052914_2_data.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/19052914_2_loe.xml",
+		"/Users/icalo/Library/Application Support/Sublime Text 3/Packages/User/XML.sublime-settings",
+		"/private/tmp/prova",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/doxygen/Doxyfile",
+		"/Users/icalo/Library/Containers/it.bloop.airmail/Data/Library/Application Support/Airmail/General/Tmp/interfaccia_dcp_bwgea_201405151612/FRA_OOWN_TSO.2014051516124500000000000.2014051500000000000000000.DAT",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/generatedoc.sh",
+		"/Users/icalo/Desktop/response/_CLI_1004543477_loe.json",
+		"/Users/icalo/Desktop/response/8",
+		"/Volumes/HEAP/getSurveyLov.json",
+		"/Users/icalo/Desktop/risposta.xml",
+		"/Users/icalo/Desktop/response/model__.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/.clang-format",
+		"/Users/icalo/Desktop/20K pv Prospect_BAR.csv",
+		"/Users/icalo/Desktop/response/CLI_1004543495_loe.plist",
+		"/Users/icalo/Desktop/response/UID_demo_499_loe.plist",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/shelf_model_20140422.xml",
+		"/Users/icalo/Desktop/response/UID_demo_499_data.plist",
+		"/Users/icalo/Desktop/response/CLI_1004543495_data.plist",
+		"/Users/icalo/Desktop/response/data.json",
+		"/Users/icalo/Desktop/response/loe.json",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/Podfile",
+		"/Users/icalo/.cocoapods/repos/master/FontAwesomeKit/2.1.5/FontAwesomeKit.podspec",
+		"/Volumes/HEAP/Dropbox/Dompe/20140506/Dompe_HTML_HYPE_maggio_2014_BASE/10/oki.html",
+		"/Volumes/HEAP/Dropbox/Dompe/20140506/Dompe_HTML_HYPE_maggio_2014_BASE/09/artrosilene.html",
+		"/Users/icalo/.cocoapods/repos/master/FontAwesome-iOS/0.0.4/FontAwesome-iOS.podspec",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/.gitignore",
+		"/Volumes/HEAP/ignazioc/ignazioc.github.io/.gitignore",
+		"/Users/icalo/.cocoapods/repos/Syskoplan/Specs/SRKnobMenu/1.0/SRKnobMenu.podspec",
+		"/Volumes/HEAP/ignazioc/ignazioc.github.io/_includes/footer.html",
+		"/Volumes/HEAP/ignazioc/ignazioc.github.io/_includes/header.html",
+		"/Volumes/HEAP/ignazioc/ignazioc.github.io/404.html",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/.clang-format",
+		"/Users/icalo/Desktop/response/model.json",
+		"/Users/icalo/Desktop/getSurveyData56.json",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/Podfile.lock",
+		"/Volumes/HEAP/ignazioc/Specs/JSONKit-NoWarning/1.2/JSONKit-NoWarning.podspec",
+		"/Volumes/HEAP/ignazioc/IgnazioC - JSONKit-NoWarning/JSONKit-NoWarning.podspec",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/validation_rules.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/prova.dot",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/scripts/objc_dep.py",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/do-git.sh",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/shelf_data_be_20140418_canon.xml",
+		"/Users/icalo/Desktop/getSurveyLov.json",
+		"/Users/icalo/Desktop/getSurveyData.json",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/visibility_rules.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/shelf_loe_20140422.xml",
+		"/Volumes/HEAP/Dropbox/Reply/Projects/Ferrero/DCP_2/xcode projects/DataCollectionPlatform/DataCollectionPlatform/SampleData/SampleSurveys/shelf_data_be_20140422.xml",
+		"/Users/icalo/Desktop/getSurveyData2.json",
+		"/Volumes/HEAP/Dropbox/Ignazio-Gianlorenzo/3. Exempi XML/20140113 - quotaspazio model/20140113 - quotaspazio model.xml",
+		"/Users/icalo/Desktop/getSurveyModel.json",
+		"/Users/icalo/Desktop/getSurveyModel2.json",
+		"/Users/icalo/Desktop/getSurveyLov4.json",
+		"/Volumes/HEAP/Dropbox/Ignazio-Gianlorenzo/3. Exempi XML/20140113 - quotaspazio/20140113 - quotaspazio model.xml",
+		"/Users/icalo/Desktop/getSurveyLov2.json",
+		"/Volumes/HEAP/Reply/Projects/Ferrero/Agenda&Clienti v2/Podfile",
+		"/Volumes/HEAP/Reply/Projects/Ferrero/Agenda&Clienti/PodFile",
+		"/Users/icalo/.dotfiles/tmux.conf",
+		"/Users/icalo/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/A1EB478D-5139-46BF-9E3A-7C5D68215442/20140113 - xml_test/20140113 - myps fuoribanco model.xml",
+		"/Users/icalo/Desktop/geocoding/config.yml",
+		"/Users/icalo/Desktop/geocoding/counfig.yml",
+		"/Users/icalo/Desktop/geocoding/script.rb",
+		"/Users/icalo/Desktop/geocoding/locations3.csv",
+		"/Users/icalo/Desktop/trunk/iOS-Ferrero-CustomerExecution/Classes/ui/RootViewController.m",
+		"/Users/icalo/Desktop/Reply/Projects/Ferrero - Agenda&Clienti/survey_model",
+		"/Users/icalo/Desktop/Reply/Projects/Ferrero - Agenda&Clienti/survey_example_lov.xml",
+		"/Users/icalo/Desktop/Library/iOS-6-Cookbook/do-git",
+		"/Users/icalo/Dropbox/Rails/depot/prj.sublime-project",
+		"/Users/icalo/Library/Caches/Cleanup At Startup/Transmit/F37669F3-0E53-47B3-B3D4-9DF073027BAA/starter-template.css",
+		"/Users/icalo/Library/Caches/Cleanup At Startup/Transmit/853A599F-1491-4A09-A1E4-27E65A06D55C/file",
+		"/Users/icalo/Desktop/ignazioc/appbuilder/appbuilder/Podfile",
+		"/Users/icalo/Desktop/Reply/Projects/Ferrero - Agenda&Clienti v2/Podfile",
+		"/Users/icalo/Desktop/com.ferrero.Customer-0B 2013-09-17 15.42.31.xcappdata/AppData/Library/Caches/Activitylog.xml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DMD[1942]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"100",
+			"PVC",
+			"10",
+			"DN",
+			"OM_SRG_OBJ[1061]-OM_LOE_DATA_PK",
+			"%PDL",
+			"Metrage",
+			"Nombre d'",
+			"lements",
+			"lement",
+			"element",
+			"é",
+			"qualit",
+			"OM_LOE[1162]",
+			"OM_SRG_OBJ[1061]-OM_LOE_DATA_PK[1]",
+			"%PDL Objectif",
+			"GAMME_COEUR",
+			"PRODUCT_SIZE",
+			"DMD[1942]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"product pre",
+			"PRODUCT_NAME",
+			"DOCSET_PATH",
+			"CREATE_SUBDIRS",
+			"OUTPUT_DIRECTORY",
+			"SOURCE_ROOT",
+			"PRODUCT_NAME",
+			"DOCSET_OUTPUT_FOLDER",
+			"DOCSET_PATH",
+			"folder",
+			"DMD[2125]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2144]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2124]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1922]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2125]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2125]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1958]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1960]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[2043]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1939]-ITG[11194]-SCN[7832]-CTX[5424",
+			"DMD[2091]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2043]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1939]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2042]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1925]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2123]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1925]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1921]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2144]-ITG[11194]-SCN[7832]-CTX[5424]",
+			"name",
+			"create",
+			"Nombre d'",
+			"product si",
+			"Taille du",
+			"DMD[1942]-ITG[11196]-SCN[7833]-CTX[5425]-SCN[7852]-CTX[5444]-ITG[11195]-SCN[7832",
+			"DMD[1958]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"Sum Product Size NV",
+			"DMD[2125]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[2124]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[2123]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"OM_LOE[1162]",
+			"DMD[2124]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"pdl (%)",
+			"pdl(%)",
+			"pdl (%)",
+			"DMD[2124]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"%PDL",
+			"DMD[2124]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1922]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1958]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2040]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"size",
+			"\"DMD[1958]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2040]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1921]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2040]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"OM_SRG_OBJ[1061]-OM_LOE_DATA_PK[1]",
+			"DMD[1942]-ITG[11196]-SCN[7833]-CTX[5425]-SCN[7852]-CTX[5444]-ITG[11195]-SCN[7832",
+			"niveau",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1946]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2042]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"niveau",
+			"DMD[1945]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2042]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"niveau",
+			"niveau coe",
+			"niveau coeur ferre",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1946]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"OM_SRG_OBJ[1190]-OM_LOE_DATA_PK[1000148776]",
+			"DMD[1946]-ITG[11348]-SCN[7938]-CTX[5530]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"OM_LOE[1162]",
+			"LOE_Type_Rayon",
+			"OM_LOE[1162]",
+			"<answerSurvey default=\"50\" number=\"1\" readonly=\"true\"/>50</answerSurvey>",
+			"	<answers question-uid=\"DMD[2123]-ITG[11346]-SCN[7936]-CTX[5528]\">\n		<answerSurvey default=\"50\" number=\"1\" readonly=\"true\">50</answerSurvey>\n	</answers>",
+			"context",
+			"OM_LOE[1317]",
+			"nombre d'",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"qualit",
+			"DMD[2125]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[1933]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[1960]-ITG[11346]-SCN[7936]-CTX[5528]",
+			"DMD[2043]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"<calculation operation_type=\"/\">\n							<operand_a constant_type=\"\" constant_value=\"\" operandType=\"Calculation\" uid=\"DMD[2043]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]\" value_source=\"AV\"/>\n							<operand_b constant_type=\"\" constant_value=\"\" operandType=\"Calculation\" uid=\"DMD[2091]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]\" value_source=\"AV\"/>\n						</calculation>",
+			"DMD[2091]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2043]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2091]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2043]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2042]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2042]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"DMD[2041]-ITG[11350]-SCN[7937]-CTX[5529]-ITG[11347]-SCN[7936]-CTX[5528]",
+			"extra vis",
+			"LOE_ASSORTIMENTO_FRANCIA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&amp;",
+			"\\ "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "prj.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

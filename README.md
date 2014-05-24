@@ -1,4 +1,9 @@
 Let-s-try--Grape
 ================
 
-Let's try Grape frameworking to create a simple rest API
+From the series "let's try".....
+
+Crate REST API using Grape
+
+We talked about [here](http://ignazioc.github.io/2014/05/24/grape.html)
+
